@@ -2,8 +2,9 @@
   "schema": "integ.life/build-version/v1",
   "repository": "integ-life/chess",
   "service": "chess.integ.life",
-  "version": "git-93cc7c72768f",
-  "commit": "93cc7c72768fc624363ee062d033854bbf139c8d",
-  "builtAt": "2026-09-14T15:39:18.254Z",
-  "dirty": false
+  "version": "git-7dc383d241a6",
+  "commit": "7dc383d241a6dfad77f43056f2ab5c13a86e79f7",
+  "builtAt": "2026-10-11T08:20:04.057Z",
+  "dirty": false,
+  "uiVersion": "0.4.0"
 }
